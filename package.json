@@ -1,0 +1,26 @@
+{
+  "name": "data-request",
+  "version": "1.0.0",
+  "description": "Data Request thru Wikipedia, New York Time's & googleMaps API's Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikoperdomo/data-request.git"
+  },
+  "keywords": [
+    "jQuery",
+    "CSS3",
+    "HTML5",
+    "NodeJS",
+    "Webpack"
+  ],
+  "author": "“Viktor <“vikoperdomo@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikoperdomo/data-request/issues"
+  },
+  "homepage": "https://github.com/vikoperdomo/data-request#readme"
+}
